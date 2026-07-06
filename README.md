@@ -14,10 +14,10 @@
 
 ## 💻 Coding Profiles
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/aman_kr003/">
     <img src="https://leetcard.jacoblin.cool/aman_kr003?theme=dark&font=Karma&ext=heatmap" width="48%">
-  </a>
+  </a> -->
 
   <a href="https://www.geeksforgeeks.org/profile/av649n1nj?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Visit_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
