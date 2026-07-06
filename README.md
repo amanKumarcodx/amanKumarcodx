@@ -1,3 +1,9 @@
+🔭 I’m currently working on Full-stack web development projects and data analytics applications.
+- 🌱 I’m currently learning React.js, Node.js, Machine Learning, and Cloud Deployment.
+- 👯 I’m looking to collaborate on Open Source, Web Development, and Python projects.
+- 🤝 I’m looking for help with Open Source contributions and scalable backend development.
+- 💬 Ask me about Python, C++, Javascript , SQL, React, and Git.
+- ⚡ Fun fact: I believe the best way to learn is by building real-world projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-9a0983293) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AmanVer54160515) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman.kumar.tech01@gmail.com) 
